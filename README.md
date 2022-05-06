@@ -10,7 +10,10 @@ This model supports three datasets: `COCO`, `flickr8k`, and `flickr30k`.
 Here we give the flicker8k datasets download links: https://pan.baidu.com/s/1q77r2KtxMzE74WNBkaAigw  its extract code: `1rh2`
 
 For more details, you can read these blogs:
+
 https://blog.csdn.net/weixin_44826203/article/details/107609852
+
+https://blog.csdn.net/qq_45893319/article/details/120047448
 
 ## some innovation points:
 
