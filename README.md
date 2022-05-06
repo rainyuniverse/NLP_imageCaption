@@ -4,10 +4,12 @@ an image caption model based on Seq2Seq
 
 ## requirements
 
-To run this model, you need put dataset in `media\ssd\caption data` path and its corresponding json file in `caption data` path. 
+To run this model, you need put dataset in `media\ssd\caption data` path and its corresponding caption json file in `caption data` path. 
 This model supports three datasets: `COCO`, `flickr8k`, and `flickr30k`. 
 
-Here we give the flicker8k datasets download links: https://pan.baidu.com/s/1q77r2KtxMzE74WNBkaAigw  its extract code: `1rh2`
+flicker8k datasets download links: https://pan.baidu.com/s/1q77r2KtxMzE74WNBkaAigw  extract code: `1rh2`
+
+corresponding caption json download links: https://pan.baidu.com/s/1tNAyFucFT0FJw1ebnAItuA extract code: `bcf3`
 
 For more details, you can read these blogs:
 
